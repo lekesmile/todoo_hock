@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 70%;
+  margin: auto;
+  margin-top: 40px;
+  color: blue;
+}
+
+ul {
+  list-style: none;
+  font-size: 35px;
+}
+
+ion-icon {
+  padding: 0.5rem;
+}
